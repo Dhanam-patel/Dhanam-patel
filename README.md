@@ -1,7 +1,7 @@
 <!-- PROFILE SHOWCASE README -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhanam+Patel!;Passionate+Coder+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%91;AI+%2F+ML+Learner+%F0%9F%A4%96;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhanam+Patel!;Passionate+Coder+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%94%91;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
 
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
 
