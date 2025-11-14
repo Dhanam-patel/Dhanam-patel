@@ -59,6 +59,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical" />
 
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
